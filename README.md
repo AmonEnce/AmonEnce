@@ -24,6 +24,6 @@
   <a href="https://www.instagram.com/brendovisky/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brendo-eduardo-773677222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AmonEnce/AmonEnce/actions/workflows/main.yml)
+  ![Snake animation](https://github.com/AmonEnce/AmonEnce/blob/358918803e4b16ca0a4e894209c129d4ea307d3e/.github/workflows/cobrinha.yml)
 
 </div>
